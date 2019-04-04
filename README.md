@@ -1,2 +1,2 @@
-# janellekloske
-Janelle's Website
+# wana-mama
+Wana Mama's Website
