@@ -61,7 +61,7 @@
 .resp-container {
     position: relative;
     overflow: hidden;
-    padding-top: 120%;
+    padding-top: 100%;
 }
 
 .resp-iframe {
